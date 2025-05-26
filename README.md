@@ -78,7 +78,7 @@ Let’s find out — and maybe build something great along the way.
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/ricardoecalles/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:ricardoecalles@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
+<!-- <a target="_blank" href="mailto:ricardoecalles@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a> -->
 <a target="_blank" href="https://x.com/RicardoECalles"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></img></a>
 <br>
 </p>
