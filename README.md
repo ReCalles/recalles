@@ -24,6 +24,11 @@ Here are a few things I genuinely enjoy:
 🌐 I enjoy learning languages and understanding how people think. 🇲🇽, 🇺🇸, 🇩🇪  
 💡 I believe in tech with purpose — not just innovation, but meaning.
 
+🌱 I’m currently learning/working on ...
+    - Core AI/ML Foundations
+    - Applied Data Science + AI
+
+
 ---
 
 ### What keeps me curious?
