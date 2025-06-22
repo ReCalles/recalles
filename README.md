@@ -21,11 +21,11 @@ Here are a few things I genuinely enjoy:
 🧠 I'm obsessed with learning how learning works (hello, brain optimization rabbit holes).  
 🛠️ I mostly code in Python and C, and I love tinkering with Arduino and embedded systems.  
 📚 I read from multiple disciplines — tech, habits, design, and psychology.  
-🌐 I enjoy learning languages and understanding how people think. 🇲🇽, 🇺🇸, 🇩🇪  
+🌐 I enjoy learning languages and understanding how people think. 🇲🇽, 🇺🇸, 🇩🇪, 🇫🇷
 💡 I believe in tech with purpose — not just innovation, but meaning.
 
 - 🌱 I’m currently learning/working on ...
-	- Core AI/ML Foundations
+	- Core AI/ML Foundations (Basic Python Foundaitons aimed towards AI).
 	- Applied Data Science + AI
 
 ---
