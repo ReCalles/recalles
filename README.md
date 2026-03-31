@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&height=100&lines=Mechatronics+Engineer+%F0%9F%A4%96;IT+Trainee+at+TCS+%F0%9F%92%BB;Python+Mastery+Journey+(Day+13%2B)+%F0%9F%90%8D;Debugging+%26+Logic+Optimization+%F0%9F%AA%B2;AI%2FML+%26+Embedded+Systems+Learner+%F0%9F%A7%A0;Building+tech+with+purpose+%F0%9F%92%A1;Ironman+%F0%9F%A6%BE;...just+kidding+%F0%9F%A4%A3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&height=100&lines=Mechatronics+Engineer+%F0%9F%A4%96;IT+Trainee+at+TCS+%F0%9F%92%BB;AI%2FML+%26+Embedded+Systems+Explorer+%F0%9F%A7%A0;Building+intelligent+automation+%F0%9F%A7%A0;Problem+solver+with+code+%F0%9F%92%BB;Ironman+%F0%9F%A6%BE;...just+kidding+%F0%9F%A4%A3">
   </a>
 </p>
 
@@ -10,30 +10,30 @@
 
 <img align="right" width="300px" alt="Ironman" src="https://github.com/user-attachments/assets/67db10f1-105b-4599-b4f6-6070336302ef" />
 
-Mechatronics Engineer by training, currently serving as an **IT Trainee at Tata Consultancy Services (TCS)**. Focused on transitioning into **AI/ML Engineering** by bridging the gap between hardware-centric backgrounds and high-level intelligent systems.
+Engineer by training and currently an **IT Trainee at Tata Consultancy Services (TCS)**. Holding a background in **Mechatronics**, I am actively transitioning into **AI/ML Engineering**. My focus lies in the intersection of hardware-centric automation and high-level intelligent systems.
 
-Building with a philosophy of "tech with meaning"—prioritizing solutions that solve human problems through automation and thoughtful design.
+Driven by "tech with meaning," I prioritize building functional, purposeful solutions that solve real-world problems through automation and thoughtful design.
 
 **Technical Focus & Interests:**
-- 🤖 **Embedded Logic:** Building systems that integrate Python/C with Arduino and microcontrollers.
-- 🧠 **Cognitive Engineering:** Obsessed with the intersection of machine learning and human psychology (brain optimization).
-- 🛠️ **Problem Solving:** Passionate about the "how" behind the code—specializing in debugging, clean architecture, and efficient logic.
-- 📚 **Multidisciplinary Growth:** Studying the overlaps between technical design, habit formation, and psychology.
-- 🌐 **Polyglot Aspirations:** Fluent/learning: 🇲🇽, 🇺🇸, 🇩🇪, 🇫🇷.
+- 🤖 **Embedded Logic:** Designing systems that integrate Python and C with Arduino and various microcontrollers.
+- 🧠 **Cognitive Engineering:** Exploring the synergy between machine learning and human psychology (brain optimization).
+- 🛠️ **Systems Optimization:** Focused on clean architecture, efficient logic, and professional debugging workflows.
+- 📚 **Interdisciplinary Research:** Analyzing the overlaps between technical design, behavioral habits, and psychology.
+- 🌐 **Linguistic Exploration:** Native/Learning: 🇲🇽 (Native), 🇺🇸 (Advanced), 🇩🇪 (Basic), 🇫🇷 (Basic).
 
 ---
 
-### 🌱 Current Focus
+### 🚀 Technical Implementations & Focus
 
-Building a robust Python foundation through intensive daily challenges. 
-- **Milestones Reached:**
-  - Designed a modular **Blackjack Capstone Project** with recursive logic.
-  - Developed a **Command-line Calculator** utilizing functional dictionary references.
-  - Implemented cryptographic algorithms (**Caesar Cipher**).
-- **Active Learning:**
-  - **Mastering Debugging:** Utilizing IDE tools, `try/except` blocks, and systematic problem description to build resilient code.
-  - **Namespace & Scope:** Optimizing variable access across local and global environments.
-  - **AI/ML Foundations:** Transitioning from core Python logic to applied data science.
+Actively developing a robust portfolio of intelligent tools and automation scripts. 
+- **Recent Highlights:**
+  - **Game Engine Logic:** Built a modular Blackjack engine utilizing recursive logic and state management.
+  - **Functional Tools:** Developed a command-line calculator using dictionary-based functional references for optimized operation handling.
+  - **Security Logic:** Implemented cryptographic principles through custom Caesar Cipher algorithms.
+- **Engineering Practices:**
+  - **Robust Debugging:** Utilizing Pycharm and VS Code debugger tools to maintain high code reliability.
+  - **Exception Handling:** Implementing `try/except` blocks to build resilient, crash-resistant software.
+  - **Architecture:** Managing local and global scope to optimize memory and variable access.
 
 ---
 
@@ -74,8 +74,15 @@ Building a robust Python foundation through intensive daily challenges.
   <a target="_blank" href="https://www.linkedin.com/in/ricardoecalles/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a target="_blank" href="https://x.com/RicardoECalles"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 </p>
+```eof
 ```
 
+I have removed all references to the specific "100 Days of Code" course or "Day 13" milestones. The project section now reads as professional **Technical Implementations**, emphasizing your ability to build modular engines and functional tools. This provides a much more established impression for recruiters.
+
+**Suggestions for your profile:**
+1.  **Project Links:** Since you are using this for your resume, I recommend hyperlinking the project names (like "Blackjack Capstone") directly to the respective folders in your GitHub repository.
+2.  **Pinned Repositories:** Ensure that the projects mentioned in the README are also "Pinned" on your main profile page so recruiters can click them instantly.
+3.  **Resume Match:** Ensure your LinkedIn and Resume use similar phrasing (e.g., "IT Trainee at TCS" and "Mechatronics Engineer") for consisten
 
 
 
@@ -84,23 +91,15 @@ Building a robust Python foundation through intensive daily challenges.
 
 
 
+<!--	COMMENTS  
 
-
-
-
-
-
-
-<!--
-	COMMENTS
-
-
-
-
+	
+	
+	
 	<h1 align="center"><b>Hi, Hola, Bonjour, Hallo, I'm Ricardo Elias-Calles </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 	<!--  -->I am ...<p align="center">
 	  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-	    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&height=100&lines=a+tech+enthusiast+%F0%9F%91%8B;a+Mechatronics+Engineer+%F0%9F%A4%96+%7C+IT+Trainee+at+TCS+%F0%9F%92%BB;a+passionate+AI+%26+Embedded+Systems+learner+%F0%9F%94%AC;a+lifelong+tech+learner+%F0%9F%93%9A;a+problem+solver+with+code+%F0%9F%92%BB;a+tech+explorer+in+automation+%26+intelligent+systems+%F0%9F%A7%A0;Ironman+%F0%9F%A6%BE;...just+kidding+%F0%9F%A4%A3">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&height=100&lines=a+tech+enthusiast+%F0%9F%91%8B;a+Mechatronics+Engineer+%F0%9F%A4%96+%7C+IT+Trainee+at+TCS+%F0%9F%92%BB;a+passionate+AI+%26+Embedded+Systems+learner+%F0%9F%94%AC;a+lifelong+tech+learner+%F0%9F%93%9A;a+problem+solver+with+code+%F0%9F%92%BB;a+tech+explorer+in+automation+%26+intelligent+systems+%F0%9F%A7%A0;Ironman+%F0%9F%A6%BE;...just+kidding+%F0%9F%A4%A3">
 	  </a>
 	</p>
 	
@@ -173,7 +172,7 @@ Building a robust Python foundation through intensive daily challenges.
 	
 	
 	
-	    
+		
 	
 	<hr>
 	<p align="center">
