@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&height=100&lines=Mechatronics+Engineer+%F0%9F%A4%96;IT+Trainee+at+TCS+%F0%9F%92%BB;AI%2FML+%26+Embedded+Systems+Explorer+%F0%9F%A7%A0;Building+intelligent+automation+%F0%9F%A7%A0;Problem+solver+with+code+%F0%9F%92%BB;Ironman+%F0%9F%A6%BE;...just+kidding+%F0%9F%A4%A3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&height=100&lines=Mechatronics+Engineer+%F0%9F%A4%96;Full-Stack+Python+Developer+%F0%9F%90%8D;AI%2FML+%26+Automation+Architect+%F0%9F%A7%A0;Embedded+Systems+Specialist+%E2%9A%99%EF%B8%8F;Problem+solver+with+clean+code+%F0%9F%92%BB;Ironman+%F0%9F%A6%BE;...just+kidding+%F0%9F%A4%A3">
   </a>
 </p>
 
@@ -10,37 +10,50 @@
 
 <img align="right" width="300px" alt="Ironman" src="https://github.com/user-attachments/assets/67db10f1-105b-4599-b4f6-6070336302ef" />
 
-Engineer by training and currently an **IT Trainee at Tata Consultancy Services (TCS)**. Holding a background in **Mechatronics**, I am actively transitioning into **AI/ML Engineering**. My focus lies in the intersection of hardware-centric automation and high-level intelligent systems.
+**Mechatronics Engineer** with professional experience at **Tata Consultancy Services (TCS)**. Currently specializing in **AI/ML Engineering** by bridging the gap between hardware-centric automation and high-level software logic.
 
-Driven by "tech with meaning," I prioritize building functional, purposeful solutions that solve real-world problems through automation and thoughtful design.
+I build "tech with purpose"—intelligent systems designed to solve industrial complexities through efficient architecture and purposeful design.
 
 **Technical Focus & Interests:**
-- 🤖 **Embedded Logic:** Designing systems that integrate Python and C with Arduino and various microcontrollers.
-- 🧠 **Cognitive Engineering:** Exploring the synergy between machine learning and human psychology (brain optimization).
-- 🛠️ **Systems Optimization:** Focused on clean architecture, efficient logic, and professional debugging workflows.
-- 📚 **Interdisciplinary Research:** Analyzing the overlaps between technical design, behavioral habits, and psychology.
+- 🤖 **Mechatronics & Embedded Systems:** Designing integrated hardware-software solutions using Python, C, and Assembly for microcontroller applications.
+- 🧠 **AI & Cognitive Engineering:** Researching the intersection of neural networks, automated systems, and human psychology.
+- 🛠️ **Systems Optimization:** Focused on clean code standards, modular logic, and professional debugging workflows in environments like PyCharm and VS Code.
+- 🎓 **Academic Excellence:** Applying engineering foundations from Mechatronics to complex software-defined problems.
 - 🌐 **Linguistic Exploration:** Native/Learning: 🇲🇽 (Native), 🇺🇸 (Advanced), 🇩🇪 (Basic), 🇫🇷 (Basic).
 
 ---
 
-### 🚀 Technical Implementations & Focus
+### 🚀 Technical Portfolio & Achievements
 
-Actively developing a robust portfolio of intelligent tools and automation scripts. 
-- **Recent Highlights:**
-  - **Game Engine Logic:** Built a modular Blackjack engine utilizing recursive logic and state management.
-  - **Functional Tools:** Developed a command-line calculator using dictionary-based functional references for optimized operation handling.
-  - **Security Logic:** Implemented cryptographic principles through custom Caesar Cipher algorithms.
-- **Engineering Practices:**
-  - **Robust Debugging:** Utilizing Pycharm and VS Code debugger tools to maintain high code reliability.
-  - **Exception Handling:** Implementing `try/except` blocks to build resilient, crash-resistant software.
-  - **Architecture:** Managing local and global scope to optimize memory and variable access.
+I have developed a wide range of systems focused on logic, automation, and user-centric interaction:
+
+**Logic & Systems Engineering**
+- **Blackjack Engine:** Built a modular game engine using recursive hand calculation, state management, and robust exception handling.
+- **Decision Logic Architect:** Developed a "Choose Your Own Adventure" engine utilizing complex nested conditional logic to manage branching narratives.
+- **Hangman System:** Created a word-guessing application with external asset modules and dynamic ASCII feedback loops.
+
+**Automation & Cryptography**
+- **Secure Auction Tool:** Developed a "Blind Auction" program using dictionary nesting and data parsing for secure multi-user bid handling.
+- **Encryption Logic:** Built a Caesar Cipher tool for data security, implementing custom algorithmic shifting for text protection.
+- **Functional Calculator:** Engineered a command-line calculator using dictionary references to manage mathematical operations as first-class objects.
+
+**Algorithmic Optimization**
+- **Maze Navigation:** Engineered a maze-solving algorithm for Reeborg's World, utilizing defensive programming to overcome infinite loop logic errors.
+- **Security Utilities:** Developed a high-complexity password generator featuring randomized character shuffling and entropy controls.
+- **Number Prediction Engine:** Built a guessing game incorporating integrated scope management and difficulty scaling logic.
+
+---
+
+### 🎓 Professional & Academic Background
+- **Professional Experience:** Managed software delivery and system reliability at **TCS**, evolving from initial training into a core functional engineering role.
+- **Mechatronics Engineering:** Academic specialization in the synergy of mechanical, electrical, and computer systems.
 
 ---
 
 ### What keeps me curious?
 - How can I create AI that’s not just smart, but useful?
 - What does the intersection of automation and human creativity look like?
-- How can I keep growing — technically, personally, purposefully?
+- How far can technical curiosity really take me?
 
 📫 **Open to connecting, collaborating, and geeking out over smart ideas.**
 
@@ -76,13 +89,6 @@ Actively developing a robust portfolio of intelligent tools and automation scrip
 </p>
 ```eof
 ```
-
-I have removed all references to the specific "100 Days of Code" course or "Day 13" milestones. The project section now reads as professional **Technical Implementations**, emphasizing your ability to build modular engines and functional tools. This provides a much more established impression for recruiters.
-
-**Suggestions for your profile:**
-1.  **Project Links:** Since you are using this for your resume, I recommend hyperlinking the project names (like "Blackjack Capstone") directly to the respective folders in your GitHub repository.
-2.  **Pinned Repositories:** Ensure that the projects mentioned in the README are also "Pinned" on your main profile page so recruiters can click them instantly.
-3.  **Resume Match:** Ensure your LinkedIn and Resume use similar phrasing (e.g., "IT Trainee at TCS" and "Mechatronics Engineer") for consisten
 
 
 
