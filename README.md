@@ -185,3 +185,5 @@ Building a robust Python foundation through intensive daily challenges.
 	<a target="_blank" href="https://x.com/RicardoECalles"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></img></a>
 	<br>
 	</p>
+
+-->
